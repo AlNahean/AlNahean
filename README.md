@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alnahean/alnahean/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlNahean/AlNahean/bf3d7de0d04ad34a855e86ba3a32fb90c097d6ea/snake.svg" alt="Snake animation" />
 
 ###
 
